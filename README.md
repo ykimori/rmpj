@@ -7,5 +7,5 @@ This plugin comprises seven RMP-based operations: *opening*, *closing*, *white t
 For details, please refer to the user manual provided in this repository.
 
 ## Installation  
-(1). Install the latest version of [ImageJ](https://imagej.net/ij/download.html).  
-(2). Copy the RMPJ.jar file into the ImageJ plugin folder, and then restart ImageJ.
+(1) Install the latest version of [ImageJ](https://imagej.net/ij/download.html).  
+(2) Copy the RMPJ.jar file into the ImageJ plugin folder, and then restart ImageJ.
