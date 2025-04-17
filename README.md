@@ -6,6 +6,10 @@ This plugin comprises seven RMP-based operations: *opening*, *closing*, *white t
 
 For details, please refer to the user manual provided in this repository.
 
+
+## Citation
+Kimori Y (2025) RMPJ: An ImageJ plugin for morphological information processing in biomedical images. PLoS Comput Biol 21(4): e1012992. https://doi.org/10.1371/journal.pcbi.1012992
+
 ## Installation  
 (1) Install the latest version of [ImageJ](https://imagej.net/ij/download.html).  
 (2) Copy the RMPJ.jar file into the ImageJ plugin folder, and then restart ImageJ.
