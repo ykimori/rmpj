@@ -8,7 +8,7 @@ For details, please refer to the user manual provided in this repository.
 
 
 ## Citation
-Kimori Y (2025) RMPJ: An ImageJ plugin for morphological information processing in biomedical images. PLoS Comput Biol 21(4): e1012992. 
+Kimori Y (2025) RMPJ: An ImageJ plugin for morphological information processing in biomedical images. PLoS Comput Biol 21(4): e1012992.   
 https://doi.org/10.1371/journal.pcbi.1012992
 
 ## Installation  
